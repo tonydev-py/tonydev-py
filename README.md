@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Antonio Cesar
 
-**`Engenheiro de Inteligência Artificial.`**
+**`Engenheiro de Inteligência Artificial`**
 
 Me chamo Antonio Cesar, tenho 27 anos e sou natural do Paraná. Atualmente, trabalho como Analista de Relacionamento com o Cliente, mas estou em transição de carreira para a área de tecnologia, com foco em Inteligência Artificial e Machine Learning. Tenho experiência em Administração e estou me graduando em IA e Machine Learning, unindo conhecimento de negócios com tecnologia para criar soluções inteligentes e eficientes. Sou apaixonado por inovação e estou sempre estudando novas ferramentas e técnicas. Compartilho parte dessa jornada por meio de projetos e iniciativas que desenvolvo com Python, TensorFlow e outras tecnologias, com o objetivo de impactar positivamente o mundo ao meu redor.
 
